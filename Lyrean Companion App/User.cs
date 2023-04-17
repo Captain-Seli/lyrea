@@ -15,6 +15,11 @@
         //public List<MonsterEncounter> MonsterEncounters { get; set; }
         //public List<InventoryItem> InventoryItems { get; set; }
 
+        public void CreateUser()
+        {
+
+        }
+
         /**
          * CreateUser(): Method to create a new user and save it to the database.
          * UpdateUser(): Method to update an existing user's information and save it to the database.
